@@ -1,0 +1,4 @@
+hundred = 1800/(5*9.58)
+disp(hundred)
+marathon = 42.195/(7299/3600)
+disp(marathon)
